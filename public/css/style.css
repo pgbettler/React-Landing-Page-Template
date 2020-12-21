@@ -309,7 +309,7 @@ header .intro-text {
 	left: 50%;
 }
 #services i.fa {
-	font-size: 42px;
+	font-size: 50px;
 	width: 120px;
 	height: 120px;
 	padding: 40px 0;
@@ -319,16 +319,19 @@ header .intro-text {
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 #services h3 {
-	font-weight: 500;
+	font-weight: 800;
+	font-size: 40px;
 	padding: 5px 0;
 	color: #fff;
 }
 #services p {
+	font-size: medium;
 	color: rgba(255,255,255,.75);
 }
 #services .service-desc {
 	margin-bottom: 40px;
 }
+
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
@@ -413,6 +416,47 @@ header .intro-text {
 	font-weight: 600;
 	color: #666;
 }
+/* FAQ Section */
+#FAQ {
+	padding: 100px 0;
+	background: #f6f6f6;
+}
+#FAQ i {
+	color: #e6e6e6;
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+.FAQ {
+	position: relative;
+	padding: 20px;
+}
+.FAQ-image {
+	float: left;
+	margin-right: 15px;
+}
+.FAQ-image, .FAQ-image img {
+	display: block;
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+}
+.FAQ-content {
+	position: relative;
+	overflow: hidden;
+}
+.FAQ-content p {
+	margin-bottom: 0;
+	font-size: 18px;
+	font-style: bold;
+	font-weight: 900;
+	color: #333
+}
+.FAQ-meta {
+	margin-top: 10px;
+	font-size: 14px;
+	font-weight: 600;
+	color: #666;
+}
 /* Team Section */
 #team {
 	padding: 100px 0;
@@ -428,6 +472,24 @@ header .intro-text {
 	border: 0;
 }
 #team .thumbnail .caption {
+	padding: 10px 0 0 0;
+	color: #888;
+}
+/* Family Section */
+#family {
+	padding: 100px 0;
+}
+#family h4 {
+	margin: 5px 0;
+}
+#family .family-img {
+	width: 240px;
+}
+#family .thumbnail {
+	background: transparent;
+	border: 0;
+}
+#family .thumbnail .caption {
 	padding: 10px 0 0 0;
 	color: #888;
 }

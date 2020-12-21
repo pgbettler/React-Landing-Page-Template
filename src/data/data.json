@@ -6,11 +6,11 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Northshore Disposal Services (NDS), also known as Rodney Keys and Sons, has been servicing customers in the West St. Tammany Area for over 60 years. This tenure of service is not an accident, but a testament to the quality and level of service that the Keys have always maintained.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
+            "Family Owned and Operated",
+            "60+ Years in Business",
+            "A+ Better Business Bureau Rating",
             "Incididunt ut labore"
         ],
         "Why2": [
@@ -21,37 +21,15 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
+            "icon": "fa fa-home",
+            "name": "Residential Collection",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
+            "icon": "fa fa-building",
+            "name": "Commercial Collection",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -104,10 +82,26 @@
             "job": "Project Manager"
         }
     ],
+    "Family": [{
+        "img": "img/team/01.jpg",
+        "title": "Here for the Long Haul",
+        "description": "Northshore Disposal Services (NDS) Also known as Rodney Keys and Sons, has been servicing customers in the west St. Tammany Area for over 60 years. This tenure of service is not an accident, but a testament to the quality of service that the Keys have maintained."
+    },
+    {
+        "img": "img/team/01.jpg",
+        "title": "Family First",
+        "description": "NDS is a family-owned and operated local business. Founded by the late Rodney Keys, Sr. in 1959 shortly after Mr. Keys maried the love of his life, Victoria. Today, NSD is operated by the second generation of the Keys Family, Rodney Jr. and Richard (Ricky)."
+    },
+    {
+        "img": "img/team/01.jpg",
+        "title": "Service and Pride",
+        "description": "Both Rodney Jr. and Ricky started working in the business during their junior highschool years, where they learned Rodney Sr.'s business philosophy, \"Do it Right! Work Smart! & Do Quality Work!.\" Rodney Jr. and Ricky use that philosophy to train their employees to maintain Northshore's high quality of service. The Keys level of commitment to their work is evident in their exemplary work ethic and consistent efforts going above the call of duty to serve their customers."
+    }
+    ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
+        "address": "P.O. Box Madisonville, LA 70447",
+        "phone": "+1 985-845-1380",
+        "email": "customerservice@northshoredis.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
@@ -132,5 +126,17 @@
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }
-    ]
+    ],
+    "FAQ": [{
+        "question": "Why are you so good looking?",
+        "answer": "Hard work and perseverance"   
+    },
+    {
+        "question": "Why are you so good looking?",
+        "answer": "Hard work and perseverance"   
+    },
+    {
+        "question": "Why are you so good looking?",
+        "answer": "Hard work and perseverance"   
+    }]
 }

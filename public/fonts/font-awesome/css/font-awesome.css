@@ -1619,6 +1619,9 @@
 .fa-trash:before {
   content: "\f1f8";
 }
+.fa-dumpster:before {
+  content: "\f793";
+}
 .fa-copyright:before {
   content: "\f1f9";
 }
